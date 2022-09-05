@@ -1,7 +1,7 @@
 
 # ExagonSoft
 
-Simple but modern website, builded to show ExagonSoft work and Services.
+Simple but modern website, builded to show ExagonSoft work and Services. <br />
 Feal free to collaborate, let feedbacks or contact us.
 
 
@@ -14,9 +14,9 @@ Feal free to collaborate, let feedbacks or contact us.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at
-:twitter: [twitter.com/ExagonsoftS](https://twitter.com/ExagonsoftS)
-:linkedin: [linkedin.com/ExagonsoftS](https://www.linkedin.com/in/msc-alvaro-raul-martin-peraza-165114210)
+If you have any feedback, please reach out to us at: <br/>
+* [twitter.com/ExagonsoftS](https://twitter.com/ExagonsoftS)<br />
+* [linkedin.com/ExagonsoftS](https://www.linkedin.com/in/msc-alvaro-raul-martin-peraza-165114210)
 
 ## Contributing
 
@@ -28,7 +28,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Tech Stack
 
-**Front End:** NodeJs, React, JavaScript, TailwindCSS
+**Front End:** NodeJs, React, JavaScript, TailwindCSS<br/>
 **Back End:** Firebase
 
 
@@ -38,5 +38,5 @@ Please adhere to this project's `code of conduct`.
 
 ## Support
 
-For support, Star this respository and Follow me on GitHub and YouTube
+For support, Star this respository and Follow me on GitHub
 
