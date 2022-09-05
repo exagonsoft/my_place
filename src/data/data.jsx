@@ -1,29 +1,23 @@
 import Image from "../assets/ExagonSoft.png";
-import {
-  ImageType,
-  MenuProps,
-  ProjectCardProps,
-  SkillsProps,
-  TimelineProps,
-} from "../types/types.d.ts";
 export const URL = "https://awesome-portfolio.piyushmehta.com";
 export const NAME = "ExagonSoft";
 
 export const SECTIONS = ["Home", "Experience", "Projects", "Skills"];
 export const HERO_IMAGE = "https://picsum.photos/id/1005/1600/1400";
 export const CTA_TEXT = "Know More";
-export const MENU = MenuProps[
+export const MENU = [
   { key: 1, route: "home", name: SECTIONS[0] },
   { key: 2, route: "experience", name: SECTIONS[1] },
   { key: 3, route: "projects", name: SECTIONS[2] },
-  { key: 4, route: "skills", name: SECTIONS[3] }
+  { key: 4, route: "skills", name: SECTIONS[3] },
+  { key: 4, route: "featured", name: SECTIONS[4] }
 ];
 
 export const GREETING_TEXT = "Hello, There";
 export const GREETING_DESCRIPTION =
   "Busy Developing a side project which will eventually be never done ";
 
-export const EXPERIENCE = TimelineProps[
+export const EXPERIENCE = [
   {
     key: 1,
     company: "Google",
@@ -67,13 +61,9 @@ export const KEYWORDS = [
   "piyush mehta",
   "Awesome Portfolio",
 ];
-export const ImageType = {
-  src: Image,
-  height: "600",
-  width: "314",
-};
+export const IMAGE = {image: Image, with:'600', height: '314'};
 
-export const projects = ProjectCardProps[
+export const projects = [
   {
     id: 1,
     projectName: "Awesome Portfolio",
@@ -110,7 +100,7 @@ export const projects = ProjectCardProps[
  * skills
  * Kept level as random but you can hard code it if you want
  */
-export const skills = SkillsProps[
+export const skills = [
   {
     id: 1,
     skill: "Javascript",
