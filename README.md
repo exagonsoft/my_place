@@ -9,13 +9,9 @@ This Template is still in beta stage if you find any bugs, please create an issu
 ## Badges
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-![GitHub followers](https://img.shields.io/github/followers/piyush97)
-![GitHub last commit](https://img.shields.io/github/last-commit/piyush97/awesome-portfolio)
-![GitHub issues](https://img.shields.io/github/issues/piyush97/awesome-portfolio)
-
-## Demo
-
-![App Screenshot](/demo1.gif)
+![GitHub followers](https://img.shields.io/github/followers/exagonsoft)
+![GitHub last commit](https://img.shields.io/github/last-commit/exagonsoft/my_place)
+![GitHub issues](https://img.shields.io/github/issues/exagonsoft/my_place)
 
   
 ## Run Locally
