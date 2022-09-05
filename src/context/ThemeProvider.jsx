@@ -1,16 +1,7 @@
-// TODO
-import { createContext, useContext } from "react";
+import { createContext, useState } from "react";
 
-export const ThemeContextProps = {
-  theme: string,
-  setTheme: (theme) => void {}
-};
+export const ThemeContext = createContext(null)
 
-export const ThemeContext = createContext<ThemeContextProps>({
-  theme: "light",
-  setTheme: () => {},
-});
-
-export const useTheme = () => {
-  return useContext<ThemeContextProps>(ThemeContext);
-};
+export const ThemeContextProvider = ({children}) => {
+  const [theme, setTheme] = useState('light')
+}
