@@ -38,5 +38,5 @@ Please adhere to this project's `code of conduct`.
 
 ## Support
 
-For support, Star this respository and Follow me on GitHub
+For support, Star this repository and Follow me on GitHub
 
