@@ -1,9 +1,8 @@
 
 # ExagonSoft
 
-A template for all of you to create and deploy an Awesome Portfolio for free without writing code
-
-This Template is still in beta stage if you find any bugs, please create an issue for that
+Simple but modern website, builded to show ExagonSoft work and Services.
+Feal free to collaborate, let feedbacks or contact us.
 
 
 ## Badges
@@ -13,39 +12,12 @@ This Template is still in beta stage if you find any bugs, please create an issu
 ![GitHub last commit](https://img.shields.io/github/last-commit/exagonsoft/my_place)
 ![GitHub issues](https://img.shields.io/github/issues/exagonsoft/my_place)
 
-  
-## Run Locally
-
-Click on Use this Template Button on GitHub
-
-```bash
-  git clone https://github.com/YOUR_USERNAME/my-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
-
-  
 ## Feedback
 
-If you have any feedback, please reach out to us at [twitter.com/PiyushMehtas](https://twitter.com/PiyushMehtaS)
+If you have any feedback, please reach out to us at
+:twitter: [twitter.com/ExagonsoftS](https://twitter.com/ExagonsoftS)
+:linkedin: [linkedin.com/ExagonsoftS](https://www.linkedin.com/in/msc-alvaro-raul-martin-peraza-165114210)
 
-  
 ## Contributing
 
 Contributions are always welcome!
@@ -54,34 +26,17 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
-  
 ## Tech Stack
 
-**Client:** NodeJs, React, Typescript, TailwindCSS
+**Front End:** NodeJs, React, JavaScript, TailwindCSS
+**Back End:** Firebase
 
 
-
-  
-## Deployment
-
-To deploy this project for free click this: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpiyush97%2Fawesome-portfolio)
-
-## How to use this
-
-• Click on use this template
-• change the text at `src/data/data.tsx`
-• `npm install`
-• `npm start`
-• Done!
-
-![demo](/demo.gif)
 ## License
 
 [MIT](/LICENSE)
 
-  
 ## Support
 
 For support, Star this respository and Follow me on GitHub and YouTube
 
-  
