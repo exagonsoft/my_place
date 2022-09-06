@@ -2,11 +2,11 @@ import React from "react";
 import { Helmet } from "react-helmet";
 import { URL } from "../data/data";
 
-const Seo = ({ props }) => {
+const Seo = props => {
   return (
     <Helmet>
       <html data-theme={props.theme} data-react-helmet="true" />
-      <title>{title}</title>
+      <title>{props.title}</title>
       <meta name="title" content={props.title} data-react-helmet="true" />
       <meta
         name="description"
@@ -16,7 +16,7 @@ const Seo = ({ props }) => {
       <meta property="og:title" content={props.title} data-react-helmet="true" />
       <meta
         property="og:image"
-        content={props.metaImage.src}
+        content={props.image.src}
         data-react-helmet="true"
       />
       <meta
