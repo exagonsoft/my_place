@@ -1,13 +1,13 @@
 import { useContext, useState } from "react";
 import "./App.css";
-import NavBar from "./components/navBar";
+import NavBar from "./components/NavBar";
 import Seo from "./components/Seo";
 import { ThemeContext } from "./context/ThemeProvider";
 import { GREETING_DESCRIPTION, IMAGE, KEYWORDS, NAME, URL } from "./data/data";
 
 function App() {
   const { theme, setTheme } = useContext(ThemeContext);
-  const [showMenu, SetShowMenu] = useState(false);
+  const [showMenu, SetShowMenu] = useState(true);
   return(
   <>
     <Seo
