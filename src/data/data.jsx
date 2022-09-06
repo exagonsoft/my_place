@@ -2,7 +2,7 @@ import Image from "../assets/ExagonSoft.png";
 export const URL = "https://awesome-portfolio.piyushmehta.com";
 export const NAME = "ExagonSoft";
 
-export const SECTIONS = ["Home", "Experience", "Projects", "Skills"];
+export const SECTIONS = ["Home", "Experience", "Projects", "Skills", "Featured"];
 export const HERO_IMAGE = "https://picsum.photos/id/1005/1600/1400";
 export const CTA_TEXT = "Know More";
 export const MENU = [
@@ -10,7 +10,7 @@ export const MENU = [
   { key: 2, route: "experience", name: SECTIONS[1] },
   { key: 3, route: "projects", name: SECTIONS[2] },
   { key: 4, route: "skills", name: SECTIONS[3] },
-  { key: 4, route: "featured", name: SECTIONS[4] }
+  { key: 5, route: "featured", name: SECTIONS[4] }
 ];
 
 export const GREETING_TEXT = "Hello, There";
