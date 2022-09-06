@@ -1,6 +1,7 @@
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   purge: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
-  darkMode: false,
+  darkMode: true,
   theme: {
     extend: {},
   },
@@ -9,3 +10,4 @@ module.exports = {
   },
   plugins: [require("@tailwindcss/typography"), require("daisyui")],
 };
+
